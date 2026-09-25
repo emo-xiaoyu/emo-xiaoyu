@@ -11,7 +11,7 @@
 ## 👨‍💻 关于我 (About Me)
 
 - 🔧 三年开发经验的 **AI Agent 开发工程师**，专注于 🤖 AI Agent 与企业级项目的结合落地
-- 🧱 **Java / Python 双栈后端出身**：Spring Boot · FastAPI · MySQL / Redis——写的接口、优化的 SQL、扛过的流量，现在都还在生产环境跑着
+- 🧱 Java / Python 双栈后端出身，写的是要长期稳定跑在生产环境的系统
 - 🧩 从需求拆解、多 Agent 编排，到 📚 RAG 知识库、📊 评测观测与 🚀 上线交付，负责全链路
 - 🧭 持续探索前沿：MCP / A2A 互联协议、多智能体协作、上下文工程——先研究透，再落成生产可用的工程
 - 🛠️ 开源作品 [harness-mix](https://github.com/emo-xiaoyu/harness-mix)：让 Codex、Claude Code 等 17 个编程 AI 在同一个窗口里接力干活、互相审查
