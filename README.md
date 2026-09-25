@@ -113,8 +113,21 @@
 ---
 
 <div align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=emo-xiaoyu&theme=tokyonight&hide_border=true" alt="contribution streak" />
+</div>
+
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emo-xiaoyu/emo-xiaoyu/output/github-contribution-grid-snake-dark.svg" />
     <img src="https://raw.githubusercontent.com/emo-xiaoyu/emo-xiaoyu/output/github-contribution-grid-snake.svg" alt="contribution snake" />
   </picture>
 </div>
+
+<details>
+<summary>🐍 关于这条蛇</summary>
+
+- 它每天北京时间 0 点准时开饭
+- 它的作息比我规律
+- 别喂它 star，它只吃 commit
+
+</details>
