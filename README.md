@@ -47,6 +47,12 @@
   <img width="65%" src="https://streak-stats.demolab.com?user=emo-xiaoyu&theme=tokyonight&hide_border=true" alt="streak" />
 </div>
 
+### 把贡献图盖成了楼 🏙
+
+<div align="center">
+  <img src="profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph" />
+</div>
+
 ### 贪吃蛇正在吃我的提交
 
 <div align="center">
