@@ -2,7 +2,7 @@
   <img width="940" src="assets/banner.svg" alt="xiaoyu — AI Agent Engineer" />
   <br/>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=2500&color=58E6D9&center=true&vCenter=true&random=false&width=620&lines=%E8%AE%A9%E6%99%BA%E8%83%BD%E5%83%8F%E6%B0%B4%E7%94%B5%E4%B8%80%E6%A0%B7%E5%8F%AF%E9%9D%A0%EF%BC%8C%E8%AE%A9%E4%B8%AA%E4%BD%93%E5%83%8F%E5%9B%A2%E9%98%9F%E4%B8%80%E6%A0%B7%E5%BC%BA%E5%A4%A7" alt="让智能像水电一样可靠，让个体像团队一样强大" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=2500&color=58E6D9&center=true&vCenter=true&random=false&width=620&lines=%E6%8A%8A%E4%B8%8D%E7%A1%AE%E5%AE%9A%E7%9A%84%E6%99%BA%E8%83%BD%EF%BC%8C%E9%94%BB%E9%80%A0%E6%88%90%E5%8F%AF%E4%BA%A4%E4%BB%98%E7%9A%84%E5%B7%A5%E7%A8%8B" alt="把不确定的智能，锻造成可交付的工程" />
   </a>
 </div>
 
