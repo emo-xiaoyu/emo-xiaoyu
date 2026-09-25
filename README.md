@@ -1,5 +1,9 @@
 <div align="center">
   <img width="940" src="assets/banner.svg" alt="xiaoyu — AI Agent Engineer" />
+  <br/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=2500&color=58E6D9&center=true&vCenter=true&random=false&width=620&lines=%E8%AE%A9%E6%99%BA%E8%83%BD%E5%83%8F%E6%B0%B4%E7%94%B5%E4%B8%80%E6%A0%B7%E5%8F%AF%E9%9D%A0%EF%BC%8C%E8%AE%A9%E4%B8%AA%E4%BD%93%E5%83%8F%E5%9B%A2%E9%98%9F%E4%B8%80%E6%A0%B7%E5%BC%BA%E5%A4%A7" alt="让智能像水电一样可靠，让个体像团队一样强大" />
+  </a>
 </div>
 
 ---
