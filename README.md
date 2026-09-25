@@ -13,8 +13,8 @@
 - 🔧 三年开发经验的 **AI Agent 开发工程师**，专注于 🤖 AI Agent 与企业级项目的结合落地
 - 🧱 **Java / Python 双栈后端出身**：Spring Boot · FastAPI · MySQL / Redis / Kafka，接口、数据和并发都上过生产环境
 - 🧩 从需求拆解、多 Agent 编排，到 📚 RAG 知识库、📊 评测观测与 🚀 上线交付，负责全链路
-- 🕷️ 写得了爬虫，调得动模型，也扛得住生产环境的凌晨告警
-- 🔭 正在折腾 [harness-mix](https://github.com/emo-xiaoyu/harness-mix) —— 一个窗口调度 17 个 Coding Agent 的本地内核
+- 🧭 持续探索前沿：MCP / A2A 互联协议、多智能体协作、上下文工程——先研究透，再落成生产可用的工程
+- 🛠️ 开源作品 [harness-mix](https://github.com/emo-xiaoyu/harness-mix)：让 Codex、Claude Code 等 17 个编程 AI 在同一个窗口里接力干活、互相审查
 
 ## 🧰 Tech Stack
 
@@ -47,7 +47,7 @@
 
 ### 📦 作品
 
-**[harness-mix](https://github.com/emo-xiaoyu/harness-mix)** —— 把 17 个原生 Coding Harness 塞进 Codex Desktop 同一窗口的本地内核：任务接力、互相评审、团队编排
+**[harness-mix](https://github.com/emo-xiaoyu/harness-mix)** —— 让 Codex、Claude Code、Pi 等 17 个编程 AI 在 Codex Desktop 同一个窗口里协作：任务接力、互相审查、团队编排
 
 [![stars](https://img.shields.io/badge/dynamic/json?query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Femo-xiaoyu%2Fharness-mix&label=%E2%98%85%20stars&color=yellow&cacheSeconds=3600)](https://github.com/emo-xiaoyu/harness-mix/stargazers)
 [![forks](https://img.shields.io/badge/dynamic/json?query=%24.forks_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Femo-xiaoyu%2Fharness-mix&label=forks&color=blueviolet&cacheSeconds=3600)](https://github.com/emo-xiaoyu/harness-mix/forks)
