@@ -51,6 +51,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square)
+![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square)
@@ -58,7 +59,7 @@
 ![Linux](https://img.shields.io/badge/Linux-6B7280?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square)
 
-<sub>也常用：DeepSeek / Qwen / GLM 等模型接入 · Qdrant / pgvector · Flask / Spring AI · Kafka / RabbitMQ / MongoDB · Kubernetes · Nginx · Scrapy · pytest</sub>
+<sub>也常用：DeepSeek / Qwen / GLM 等模型接入 · Qdrant / pgvector · Flask / Spring AI · Kafka / RabbitMQ / MongoDB · Kubernetes · Nginx · pytest</sub>
 
 ## 📦 作品
 
