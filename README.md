@@ -22,18 +22,28 @@
 
 ![LangChain](https://img.shields.io/badge/LangChain-38B2AC?style=flat-square)
 ![LangGraph](https://img.shields.io/badge/LangGraph-805AD5?style=flat-square)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-319795?style=flat-square)
+![LightRAG](https://img.shields.io/badge/LightRAG-5A67D8?style=flat-square)
 ![DeepAgents](https://img.shields.io/badge/DeepAgents-4F46E5?style=flat-square)
 ![AgentScope](https://img.shields.io/badge/AgentScope-9F7AEA?style=flat-square)
+![OpenAI Agents SDK](https://img.shields.io/badge/OpenAI_Agents_SDK-74C0FC?style=flat-square)
 ![LangSmith](https://img.shields.io/badge/LangSmith-2F855A?style=flat-square)
 ![Langfuse](https://img.shields.io/badge/Langfuse-E07A5F?style=flat-square)
+![Ragas](https://img.shields.io/badge/Ragas-38A169?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-7C3AED?style=flat-square)
 ![GraphRAG](https://img.shields.io/badge/GraphRAG-3182CE?style=flat-square)
 ![FAISS](https://img.shields.io/badge/FAISS-63B3ED?style=flat-square)
 ![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=flat-square)
+![Neo4j](https://img.shields.io/badge/Neo4j-0E7C7B?style=flat-square)
 ![MCP](https://img.shields.io/badge/MCP-0EA5E9?style=flat-square)
+![A2A](https://img.shields.io/badge/A2A-4299E1?style=flat-square)
+![Function Calling](https://img.shields.io/badge/Function_Calling-B7791F?style=flat-square)
 ![Skill](https://img.shields.io/badge/Skill-F59E0B?style=flat-square)
 ![SubAgent](https://img.shields.io/badge/SubAgent-10B981?style=flat-square)
 ![Agent Team](https://img.shields.io/badge/Agent_Team-DD6B20?style=flat-square)
+![Memory](https://img.shields.io/badge/Memory-D53F8C?style=flat-square)
+![Context Engineering](https://img.shields.io/badge/Context_Engineering-0987A0?style=flat-square)
+![Harness Engineering](https://img.shields.io/badge/Harness_Engineering-E53E3E?style=flat-square)
 
 **🖥️ 后端**
 
@@ -48,7 +58,7 @@
 ![Linux](https://img.shields.io/badge/Linux-6B7280?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square)
 
-<sub>也常用：DeepSeek / Qwen / GLM 等模型接入 · A2A · Qdrant / pgvector · Flask / Spring AI · Kafka / RabbitMQ / MongoDB · Kubernetes · Nginx · Scrapy · pytest</sub>
+<sub>也常用：DeepSeek / Qwen / GLM 等模型接入 · Qdrant / pgvector · Flask / Spring AI · Kafka / RabbitMQ / MongoDB · Kubernetes · Nginx · Scrapy · pytest</sub>
 
 ## 📦 作品
 
