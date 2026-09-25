@@ -28,16 +28,53 @@
 ![DeepAgents](https://img.shields.io/badge/DeepAgents-4F46E5?style=for-the-badge)
 ![AgentScope](https://img.shields.io/badge/AgentScope-6F42C1?style=for-the-badge)
 
+**模型接入与部署**
+
+![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white)
+![Qwen / GLM](https://img.shields.io/badge/Qwen%20%2F%20GLM-615CED?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Ollama / vLLM](https://img.shields.io/badge/Ollama%20%2F%20vLLM-334155?style=for-the-badge&logo=ollama&logoColor=white)
+![MCP / A2A](https://img.shields.io/badge/MCP%20%2F%20A2A-0EA5E9?style=for-the-badge)
+
+**RAG 与向量检索**
+
+![RAG](https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge)
+![GraphRAG](https://img.shields.io/badge/GraphRAG-087CFA?style=for-the-badge&logo=neo4j&logoColor=white)
+![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge&logo=milvus&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-4254FF?style=for-the-badge)
+![Qdrant / Chroma](https://img.shields.io/badge/Qdrant%20%2F%20Chroma-CD3C46?style=for-the-badge&logo=qdrant&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-E54729?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
 **评测与可观测**
 
 ![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Langfuse](https://img.shields.io/badge/Langfuse-1C3C3C?style=for-the-badge&logo=langfuse&logoColor=white)
 ![Agent Eval](https://img.shields.io/badge/Agent%20Eval-16A34A?style=for-the-badge)
 
-**RAG 与知识工程**
+**后端与数据**
 
-![RAG](https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge)
-![GraphRAG](https://img.shields.io/badge/GraphRAG-087CFA?style=for-the-badge&logo=neo4j&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**工程与运维**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
 ### 📦 作品
 
