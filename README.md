@@ -20,6 +20,8 @@
 
 **🤖 Agent 开发**
 
+<sub><b>框架与编排</b></sub>
+
 ![LangChain](https://img.shields.io/badge/LangChain-38B2AC?style=flat-square)
 ![LangGraph](https://img.shields.io/badge/LangGraph-805AD5?style=flat-square)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-319795?style=flat-square)
@@ -27,37 +29,61 @@
 ![DeepAgents](https://img.shields.io/badge/DeepAgents-4F46E5?style=flat-square)
 ![AgentScope](https://img.shields.io/badge/AgentScope-9F7AEA?style=flat-square)
 ![OpenAI Agents SDK](https://img.shields.io/badge/OpenAI_Agents_SDK-74C0FC?style=flat-square)
-![LangSmith](https://img.shields.io/badge/LangSmith-2F855A?style=flat-square)
-![Langfuse](https://img.shields.io/badge/Langfuse-E07A5F?style=flat-square)
-![Ragas](https://img.shields.io/badge/Ragas-38A169?style=flat-square)
+
+<sub><b>RAG 与检索</b></sub>
+
 ![RAG](https://img.shields.io/badge/RAG-7C3AED?style=flat-square)
 ![GraphRAG](https://img.shields.io/badge/GraphRAG-3182CE?style=flat-square)
+![Embedding](https://img.shields.io/badge/Embedding-553C9A?style=flat-square)
+![Rerank](https://img.shields.io/badge/Rerank-2F9E6E?style=flat-square)
 ![FAISS](https://img.shields.io/badge/FAISS-63B3ED?style=flat-square)
 ![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=flat-square)
 ![Neo4j](https://img.shields.io/badge/Neo4j-0E7C7B?style=flat-square)
+
+<sub><b>评测与可观测</b></sub>
+
+![LangSmith](https://img.shields.io/badge/LangSmith-2F855A?style=flat-square)
+![Langfuse](https://img.shields.io/badge/Langfuse-E07A5F?style=flat-square)
+![Ragas](https://img.shields.io/badge/Ragas-38A169?style=flat-square)
+
+<sub><b>互联与执行</b></sub>
+
 ![MCP](https://img.shields.io/badge/MCP-0EA5E9?style=flat-square)
 ![A2A](https://img.shields.io/badge/A2A-4299E1?style=flat-square)
+![Sandbox](https://img.shields.io/badge/Sandbox-6F42C1?style=flat-square)
+
+<sub><b>模式与工程</b></sub>
+
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-B794F4?style=flat-square)
 ![Function Calling](https://img.shields.io/badge/Function_Calling-B7791F?style=flat-square)
 ![Tool Use](https://img.shields.io/badge/Tool_Use-C05621?style=flat-square)
 ![Multi-Agent](https://img.shields.io/badge/Multi--Agent-2C7A7B?style=flat-square)
-![Skill](https://img.shields.io/badge/Skill-F59E0B?style=flat-square)
 ![SubAgent](https://img.shields.io/badge/SubAgent-10B981?style=flat-square)
 ![Agent Team](https://img.shields.io/badge/Agent_Team-DD6B20?style=flat-square)
+![Skill](https://img.shields.io/badge/Skill-F59E0B?style=flat-square)
 ![Memory](https://img.shields.io/badge/Memory-D53F8C?style=flat-square)
 ![Context Engineering](https://img.shields.io/badge/Context_Engineering-0987A0?style=flat-square)
 ![Harness Engineering](https://img.shields.io/badge/Harness_Engineering-E53E3E?style=flat-square)
 
 **🖥️ 后端**
 
+<sub><b>语言与框架</b></sub>
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square)
 ![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=flat-square)
+
+<sub><b>数据库</b></sub>
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-F5A623?style=flat-square)
+
+<sub><b>系统与部署</b></sub>
+
 ![Linux](https://img.shields.io/badge/Linux-6B7280?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square)
 
