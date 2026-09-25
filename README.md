@@ -18,49 +18,51 @@
 
 ## 🧰 Tech Stack
 
-**🤖 Agent 开发 · RAG**
+**🤖 Agent 开发**
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
-![DeepAgents](https://img.shields.io/badge/DeepAgents-4F46E5?style=for-the-badge)
-![AgentScope](https://img.shields.io/badge/AgentScope-6F42C1?style=for-the-badge)
-![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Langfuse](https://img.shields.io/badge/Langfuse-1C3C3C?style=for-the-badge&logo=langfuse&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge)
-![GraphRAG](https://img.shields.io/badge/GraphRAG-087CFA?style=for-the-badge&logo=neo4j&logoColor=white)
-![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge&logo=milvus&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-4254FF?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-38B2AC?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-805AD5?style=flat-square)
+![DeepAgents](https://img.shields.io/badge/DeepAgents-4F46E5?style=flat-square)
+![AgentScope](https://img.shields.io/badge/AgentScope-9F7AEA?style=flat-square)
+![LangSmith](https://img.shields.io/badge/LangSmith-2F855A?style=flat-square)
+![Langfuse](https://img.shields.io/badge/Langfuse-E07A5F?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-7C3AED?style=flat-square)
+![GraphRAG](https://img.shields.io/badge/GraphRAG-3182CE?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-63B3ED?style=flat-square)
 
-**🖥️ 后端工程**
+**🖥️ 后端**
 
-`语言`　![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-F5A623?style=flat-square)
+![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-6B7280?style=flat-square)
 
-`框架`　![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+<sub>也常用：DeepSeek / Qwen / GLM 等模型接入 · MCP / A2A · Qdrant / pgvector · Flask / Spring AI · Kafka / RabbitMQ / MongoDB · Nginx · Scrapy · pytest</sub>
 
-`数据库`　![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
+## 📦 作品
 
-`部署`　![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+> ### 🌟 [harness-mix](https://github.com/emo-xiaoyu/harness-mix)
+>
+> 让 Codex、Claude Code、Pi 等 17 个编程 AI 在 Codex Desktop 同一个窗口里协作：任务接力、互相审查、团队编排
+>
+> [![stars](https://img.shields.io/badge/dynamic/json?query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Femo-xiaoyu%2Fharness-mix&label=%E2%98%85%20stars&color=yellow&cacheSeconds=3600&style=flat-square)](https://github.com/emo-xiaoyu/harness-mix/stargazers)
+> [![forks](https://img.shields.io/badge/dynamic/json?query=%24.forks_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Femo-xiaoyu%2Fharness-mix&label=forks&color=blueviolet&cacheSeconds=3600&style=flat-square)](https://github.com/emo-xiaoyu/harness-mix/forks)
+> [![license](https://img.shields.io/badge/dynamic/json?query=%24.license.spdx_id&url=https%3A%2F%2Fapi.github.com%2Frepos%2Femo-xiaoyu%2Fharness-mix&label=license&color=blue&cacheSeconds=3600&style=flat-square)](https://github.com/emo-xiaoyu/harness-mix/blob/main/LICENSE)
 
-<sub>也常用：OpenAI / DeepSeek / Qwen 等模型接入 · Elasticsearch / pgvector / Qdrant · Flask / Spring AI · PostgreSQL / Kafka / RabbitMQ / MongoDB · Nginx · MCP / A2A · pytest</sub>
-
-### 📦 作品
-
-**[harness-mix](https://github.com/emo-xiaoyu/harness-mix)** —— 让 Codex、Claude Code、Pi 等 17 个编程 AI 在 Codex Desktop 同一个窗口里协作：任务接力、互相审查、团队编排
-
-[![stars](https://img.shields.io/badge/dynamic/json?query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Femo-xiaoyu%2Fharness-mix&label=%E2%98%85%20stars&color=yellow&cacheSeconds=3600)](https://github.com/emo-xiaoyu/harness-mix/stargazers)
-[![forks](https://img.shields.io/badge/dynamic/json?query=%24.forks_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Femo-xiaoyu%2Fharness-mix&label=forks&color=blueviolet&cacheSeconds=3600)](https://github.com/emo-xiaoyu/harness-mix/forks)
-[![license](https://img.shields.io/badge/dynamic/json?query=%24.license.spdx_id&url=https%3A%2F%2Fapi.github.com%2Frepos%2Femo-xiaoyu%2Fharness-mix&label=license&color=blue&cacheSeconds=3600)](https://github.com/emo-xiaoyu/harness-mix/blob/main/LICENSE)
-
-**[snipaste-pro](https://github.com/emo-xiaoyu/snipaste-pro)** —— Pasty：Windows 本地剪贴板工具，自动记录文本 / 图片 / 文件，全局快捷键秒呼历史
-
-[![stars](https://img.shields.io/badge/dynamic/json?query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Femo-xiaoyu%2Fsnipaste-pro&label=%E2%98%85%20stars&color=yellow&cacheSeconds=3600)](https://github.com/emo-xiaoyu/snipaste-pro/stargazers)
-[![license](https://img.shields.io/badge/dynamic/json?query=%24.license.spdx_id&url=https%3A%2F%2Fapi.github.com%2Frepos%2Femo-xiaoyu%2Fsnipaste-pro&label=license&color=blue&cacheSeconds=3600)](https://github.com/emo-xiaoyu/snipaste-pro/blob/main/LICENSE)
+> ### 📋 [snipaste-pro](https://github.com/emo-xiaoyu/snipaste-pro)
+>
+> Pasty：Windows 本地剪贴板工具，自动记录文本 / 图片 / 文件，全局快捷键秒呼历史
+>
+> [![stars](https://img.shields.io/badge/dynamic/json?query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Femo-xiaoyu%2Fsnipaste-pro&label=%E2%98%85%20stars&color=yellow&cacheSeconds=3600&style=flat-square)](https://github.com/emo-xiaoyu/snipaste-pro/stargazers)
+> [![license](https://img.shields.io/badge/dynamic/json?query=%24.license.spdx_id&url=https%3A%2F%2Fapi.github.com%2Frepos%2Femo-xiaoyu%2Fsnipaste-pro&label=license&color=blue&cacheSeconds=3600&style=flat-square)](https://github.com/emo-xiaoyu/snipaste-pro/blob/main/LICENSE)
 
 <div align="center">
 
