@@ -16,9 +16,9 @@
 - 🧭 持续探索前沿：MCP / A2A 互联协议、多智能体协作、上下文工程——先研究透，再落成生产可用的工程
 - 🛠️ 开源作品 [harness-mix](https://github.com/emo-xiaoyu/harness-mix)：让 Codex、Claude Code 等 17 个编程 AI 在同一个窗口里接力干活、互相审查
 
-## 🧰 Tech Stack
+## 🧰 技术栈 (Tech Stack)
 
-**🤖 Agent 开发**
+### 🤖 Agent 开发 (Agent Development)
 
 <sub><b>框架与编排</b></sub>
 
@@ -65,7 +65,7 @@
 ![Context Engineering](https://img.shields.io/badge/Context_Engineering-0987A0?style=flat-square)
 ![Harness Engineering](https://img.shields.io/badge/Harness_Engineering-E53E3E?style=flat-square)
 
-**🖥️ 后端**
+### 🖥️ 后端 (Backend)
 
 <sub><b>语言与框架</b></sub>
 
@@ -86,14 +86,14 @@
 ![Linux](https://img.shields.io/badge/Linux-6B7280?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square)
 
-**🕷️ 爬虫**
+### 🕷️ 爬虫 (Web Scraping)
 
 ![Scrapy](https://img.shields.io/badge/Scrapy-43A047?style=flat-square)
 ![Scrapling](https://img.shields.io/badge/Scrapling-9ACD32?style=flat-square)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square)
 ![crawl4ai](https://img.shields.io/badge/crawl4ai-F97316?style=flat-square)
 
-## 📦 作品
+## 📦 作品 (Projects)
 
 > ### 🌟 [harness-mix](https://github.com/emo-xiaoyu/harness-mix)
 >
