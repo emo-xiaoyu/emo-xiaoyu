@@ -18,7 +18,7 @@
 
 ## 🧰 Tech Stack
 
-**Agent 开发**
+**🤖 Agent 开发 · RAG**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
@@ -26,24 +26,28 @@
 ![AgentScope](https://img.shields.io/badge/AgentScope-6F42C1?style=for-the-badge)
 ![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Langfuse](https://img.shields.io/badge/Langfuse-1C3C3C?style=for-the-badge&logo=langfuse&logoColor=white)
-
-**RAG 检索**
-
 ![RAG](https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge)
 ![GraphRAG](https://img.shields.io/badge/GraphRAG-087CFA?style=for-the-badge&logo=neo4j&logoColor=white)
 ![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge&logo=milvus&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-4254FF?style=for-the-badge)
 
-**语言与工程**
+**🖥️ 后端工程**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+`语言`　![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-<sub>也常用：OpenAI / DeepSeek / Qwen 等模型接入 · Elasticsearch / pgvector / Qdrant · Flask / Spring AI · Redis / Kafka / MongoDB · K8s / Linux / Nginx · MCP / A2A · pytest</sub>
+`框架`　![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+`数据库`　![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
+
+`部署`　![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+<sub>也常用：OpenAI / DeepSeek / Qwen 等模型接入 · Elasticsearch / pgvector / Qdrant · Flask / Spring AI · PostgreSQL / Kafka / RabbitMQ / MongoDB · Nginx · MCP / A2A · pytest</sub>
 
 ### 📦 作品
 
