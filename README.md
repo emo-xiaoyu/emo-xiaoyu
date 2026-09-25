@@ -73,7 +73,6 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square)
-![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=flat-square)
 
 <sub><b>数据库</b></sub>
 
@@ -86,6 +85,11 @@
 
 ![Linux](https://img.shields.io/badge/Linux-6B7280?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square)
+
+**🕷️ 爬虫**
+
+![Scrapy](https://img.shields.io/badge/Scrapy-43A047?style=flat-square)
+![Scrapling](https://img.shields.io/badge/Scrapling-9ACD32?style=flat-square)
 
 <sub>也常用：DeepSeek / Qwen / GLM 等模型接入 · Qdrant / pgvector · Flask / Spring AI · Kafka / RabbitMQ / MongoDB · Kubernetes · Nginx · pytest</sub>
 
