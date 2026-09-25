@@ -10,23 +10,11 @@
 
 ### `$ whoami`
 
-**给 AI 当 HR 的人。**
-
 写了 [**harness-mix**](https://github.com/emo-xiaoyu/harness-mix) —— 把 Codex、Claude Code、Pi、Antigravity、OpenCode、Grok 等 17 个原生 Coding Harness 塞进 Codex Desktop 的同一个窗口：任务接力、互相评审、团队编排，凭据和权限仍归各家自理。
 
-```bash
-$ ps aux | grep 生活
-未发现相关进程 —— 它们都被拆成了 TODO
-```
+> 🔭 正在折腾 harness-mix · 一个窗口调度 17 个 Agent
 
-| | |
-| --- | --- |
-| 🔭 **正在折腾** | harness-mix · 用一个窗口调度 17 个 Agent |
-| 🏆 **GitHub 官方认证** | YOLO（免 review 直接 merge）· Quickdraw（5 分钟闪电关单）· Starstruck ×2 |
-| 🤝 **社交浓度** | 关注 0 人 · 送出 130 个 ★ —— 不是高冷，是 feed 里全是广告 |
-| 🎯 **当前状态** | Focusing |
-
-### 常用装备（幸存者名单）
+### Tech Stack
 
 <div align="center">
 
@@ -40,8 +28,6 @@ $ ps aux | grep 生活
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
-
-> 未上榜的技术不是不用，是没能从我的代码里活着出来。
 
 ### 作品
 
