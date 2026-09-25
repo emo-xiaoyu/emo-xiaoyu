@@ -18,7 +18,7 @@
 
 ## 🧰 技术栈 (Tech Stack)
 
-### 🤖 Agent 开发 (Agent Development)
+### 🤖 AI Agent
 
 <sub><b>框架与编排</b></sub>
 
