@@ -93,8 +93,6 @@
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square)
 ![crawl4ai](https://img.shields.io/badge/crawl4ai-F97316?style=flat-square)
 
-<sub>也常用：DeepSeek / Qwen / GLM 等模型接入 · Qdrant / pgvector · Flask / Spring AI · Kafka / RabbitMQ / MongoDB · Kubernetes · Nginx · pytest</sub>
-
 ## 📦 作品
 
 > ### 🌟 [harness-mix](https://github.com/emo-xiaoyu/harness-mix)
@@ -111,13 +109,6 @@
 >
 > [![stars](https://img.shields.io/badge/dynamic/json?query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Femo-xiaoyu%2Fsnipaste-pro&label=%E2%98%85%20stars&color=yellow&cacheSeconds=3600&style=flat-square)](https://github.com/emo-xiaoyu/snipaste-pro/stargazers)
 > [![license](https://img.shields.io/badge/dynamic/json?query=%24.license.spdx_id&url=https%3A%2F%2Fapi.github.com%2Frepos%2Femo-xiaoyu%2Fsnipaste-pro&label=license&color=blue&cacheSeconds=3600&style=flat-square)](https://github.com/emo-xiaoyu/snipaste-pro/blob/main/LICENSE)
-
-<div align="center">
-
-[![repos](https://img.shields.io/badge/dynamic/json?query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Femo-xiaoyu&label=public%20repos&color=2088FF&cacheSeconds=3600&style=flat-square)](https://github.com/emo-xiaoyu?tab=repositories)
-[![followers](https://img.shields.io/badge/dynamic/json?query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Femo-xiaoyu&label=followers&color=8957E5&cacheSeconds=3600&style=flat-square)](https://github.com/emo-xiaoyu?tab=followers)
-
-</div>
 
 ---
 
