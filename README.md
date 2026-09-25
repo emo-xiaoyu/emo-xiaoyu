@@ -90,6 +90,8 @@
 
 ![Scrapy](https://img.shields.io/badge/Scrapy-43A047?style=flat-square)
 ![Scrapling](https://img.shields.io/badge/Scrapling-9ACD32?style=flat-square)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square)
+![crawl4ai](https://img.shields.io/badge/crawl4ai-F97316?style=flat-square)
 
 <sub>也常用：DeepSeek / Qwen / GLM 等模型接入 · Qdrant / pgvector · Flask / Spring AI · Kafka / RabbitMQ / MongoDB · Kubernetes · Nginx · pytest</sub>
 
