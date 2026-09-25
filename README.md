@@ -38,6 +38,8 @@
 ![MCP](https://img.shields.io/badge/MCP-0EA5E9?style=flat-square)
 ![A2A](https://img.shields.io/badge/A2A-4299E1?style=flat-square)
 ![Function Calling](https://img.shields.io/badge/Function_Calling-B7791F?style=flat-square)
+![Tool Use](https://img.shields.io/badge/Tool_Use-C05621?style=flat-square)
+![Multi-Agent](https://img.shields.io/badge/Multi--Agent-2C7A7B?style=flat-square)
 ![Skill](https://img.shields.io/badge/Skill-F59E0B?style=flat-square)
 ![SubAgent](https://img.shields.io/badge/SubAgent-10B981?style=flat-square)
 ![Agent Team](https://img.shields.io/badge/Agent_Team-DD6B20?style=flat-square)
